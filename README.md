@@ -9,7 +9,7 @@ Fly, B***h \[Not Fully Open Source\] (This content contains some aggressive, unf
 
 
 **This series' policy**:  
-'''
+```
 if you serve as a peer tutor:   
   if you attend the _distinguished peer-tutor selection_:   
     you must make contribution to this repo **or** offer your students list for checking your duty **before** you use this project   
@@ -20,7 +20,7 @@ elif you are a student:
   feel free to refer to it!   
    
 You should not spread Part3 in any situation.   
-'''
+```
 
 Personally, I will not attend the _distinguished peer-tutor selection_ or something like this.   
 I make this policy just to avoid it being utilized by some only-talk-no-act, lazy, bureaucratic student cadres, who are annoying and quite common in the university.  
