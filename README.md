@@ -24,3 +24,4 @@ You should not spread Part3 in any situation.
 
 Personally, I will not attend the _distinguished peer-tutor selection_ or something like this.   
 I make this policy just to avoid it being utilized by some only-talk-no-act, lazy, bureaucratic student cadres, who are annoying and quite common in the university.  
+I take this job because I wish I had had a kind peer tutor to give some useful info in my first year at university. So I do not want this repo to be abused.
