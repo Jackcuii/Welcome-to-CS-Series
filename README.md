@@ -1,11 +1,9 @@
 # Welcome-to-CS-Series
 A series of 3 lectures for beginners in Computer Science, including the following ones:  
 Up to now, this series is designed by me, but I will refine it in the future, and ask some guests to supplement it.  
-Computer Science from a High School Student's Aspect. \[Open Source\]  
-Dreamer from beginning - Computer Science Spirit， Today and Personal Development \[Open Source\]  
-几个选择的发展路径。  
-Fly, B***h \[Not Fully Open Source\] (This content contains some aggressive, unfriendly truth of the school. If you want to get this resource (as a freshman or serving as a peer tutor), please contact me (email), showing your education ID and telling me why.  
-学校里可以做的事情，核心课解析，培养计划，各种技巧，核心逻辑, 学校现状。  
+1. Computer Science from a High School Student's Aspect. \[Open Source\]  
+2. Dreamer from beginning - Computer Science Spirit， Today and Personal Development \[Open Source\]  
+3. Fly, B***h \[Not Fully Open Source\] (This content contains some aggressive, unfriendly truth of the school. If you want to get this resource (as a freshman or serving as a peer tutor), please contact me (email), showing your education ID and telling me why.  
 
 
 **This series' policy**:  
