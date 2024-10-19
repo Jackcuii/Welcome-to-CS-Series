@@ -13,7 +13,7 @@ If you want to get this resource (as a freshman or serving as a peer tutor), ple
 if you serve as a peer tutor:   
   if you attend the _distinguished peer-tutor selection_:   
     you must make contribution to this repo **or** offer your students list for checking your duty **before** you use this project   
-    otherwise it is regarded as  
+    otherwise it is regarded as plagiarism
   else:   
     feel free to use it!   
 elif you are a student:   
